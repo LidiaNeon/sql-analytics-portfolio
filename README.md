@@ -1,7 +1,20 @@
-# sql-analytics-portfolio
-Practical SQL analytics portfolio: sales trends, cohorts, inventory reconciliation, data quality checks, and funnel analysis
 # SQL Analytics Portfolio
 
-This repository contains a set of **practical SQL case studies** that showcase my skills in data analysis, cleaning, and reporting.
+A concise collection of practical SQL exercises and case studies focused on analytics, data cleaning, and solving business-style problems.
 
-Each case is written as if it were part of a real project: business description + SQL solution.
+## Structure
+
+### /postgres_demobase
+Practice on the official PostgreSQL airline demo database:
+flights, bookings, tickets, segments, airports.
+
+### /practical_cases
+Independent SQL cases:
+sales analytics, cohort analysis, inventory checks, data quality validation, funnels.
+
+## Stack
+PostgreSQL · pgAdmin · CTEs · joins · aggregations · analytical queries
+
+## Contacts
+GitHub: https://github.com/LidiaNeon 
+LinkedIn: https://www.linkedin.com/in/lidiavasilevskaya 
